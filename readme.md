@@ -1,7 +1,7 @@
 <h1 align="center">J.M. Basquiat</h1>
 
 <p align="center">Inserir descrição.<br>
-Para isso mencionei programas e ações que disponibilizam apoio e tratamento.</p>
+Inserir descrição.</p>
 
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
