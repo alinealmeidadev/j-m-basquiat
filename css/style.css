@@ -5,6 +5,20 @@ html {
   scroll-behavior: smooth;
 }
 
+header {
+  background-color: #0000ff;
+  
+}
+
+.nav-link {
+  font-weight: 600;
+}
+
+header span {
+  color: #F2CE0A;
+}
+
+
 /* @media (min-width: 768px) {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
@@ -18,33 +32,42 @@ html {
  .carousel {
   margin-bottom: 4rem;
 }
-/* Since positioning the image, we need to help out the caption */
+
 .carousel-caption {
   bottom: 3rem;
   z-index: 10;
 }
 
-/* Declare heights because of positioning of img element */
 .carousel-item {
   height: 32rem;
 }
+
+.img-banner{
+  filter: brightness(38%);
+}
+
+.sobre-banner {
+  background-color: #0000ff2a;
+  padding: 10px;
+    position: absolute;
+    left: 15px;
+    bottom: 15px;
+}
+
 /****** section ******/
-
-
 
 .bd-placeholder-img {
     text-anchor: middle;
     user-select: none;
     width: 100%;
-
 }
 
 .btn-group button {
   /*.botão*/
   text-decoration: none;
   color: #FFF;
-  background-color: #cb0000;
-  padding: 4px 5px;
+  background-color: #0000ff;
+  padding: 5px 7px;
   border-radius: 5px;
 }
 
@@ -71,7 +94,7 @@ html {
 }
 
 
-#encontre-apoio h3 {
+#obras h3 {
   text-align: center;
 }
 
