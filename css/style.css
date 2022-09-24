@@ -1,0 +1,119 @@
+/****** CARD ******/
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* @media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+ */
+
+
+ /******* main *******/
+
+ .carousel {
+  margin-bottom: 4rem;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel-item {
+  height: 32rem;
+}
+/****** section ******/
+
+
+
+.bd-placeholder-img {
+    text-anchor: middle;
+    user-select: none;
+    width: 100%;
+
+}
+
+.btn-group button {
+  /*.botão*/
+  text-decoration: none;
+  color: #FFF;
+  background-color: #cb0000;
+  padding: 4px 5px;
+  border-radius: 5px;
+}
+
+.btn-group button:hover {
+  background-color: blue;
+  color: #FFF;
+}
+
+
+#img1 {
+  background-image: url('../img/bg-login.png');
+}
+
+
+#largura-card {
+  gap: 50px;
+
+}
+
+#col-01 {
+  background-color: orange;
+  width: 320px;
+  height: 400px;
+}
+
+
+#encontre-apoio h3 {
+  text-align: center;
+}
+
+
+.small-image-container {
+  height: 250px;
+  margin-bottom: 10px;
+}
+
+/* ---------------------FOOTER */
+footer {
+  height: 200px;
+  width: 100%;
+  background-color: #c0c0cf;
+  border-top: 1px solid #5c595c;
+  text-align: center;
+}
+
+footer #nome { 
+  font-size: 30px;
+  font-weight: 500;
+  letter-spacing: 3px;
+  padding-top: 16px;
+}
+
+footer i {
+  color: #0000ff;
+  font-size: 32px;
+}
+
+footer a:hover i {
+  color: #413c41;
+}
+
+#social-icons {
+  gap: 10px;
+}
+
+footer #ano {
+  border-top: 1px solid #413c41a4;
+  font-weight: 400;
+  font-size: 18px;
+  margin-top: 16px;
+  padding: 2px;
+}
