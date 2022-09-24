@@ -1,0 +1,34 @@
+
+main .vida {
+    margin-top: 50px;
+
+}
+
+
+.inf {
+    background-color: #000;
+    flex-shrink: 0;
+    height: 400px;
+
+    color: #f3f0e0;
+}
+
+.bg-inf {
+    padding-right: 0 ;
+    padding-left: 0; 
+    height: 400px;
+}
+
+.sobre-1 {
+    height: 100%;
+    width: 100%;
+}
+
+.inf h2 {
+    padding: 15px;
+}
+
+.texto {
+    font-size: 18px;
+}
+
