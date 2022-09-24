@@ -2,5 +2,18 @@
     background-image:  url('../img/bg-login.jpg');
     background-size: cover;
     background-position: center;
+}
 
-  }
+.modal-content {
+  background-color: #c0c0cf;
+}
+
+.form-control {
+  background-color: #fff;
+
+}
+
+
+.modal button4 {
+  background-color: #0000ff;
+}
