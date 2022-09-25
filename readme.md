@@ -9,7 +9,7 @@ Inserir descrição.</p>
 
 
 ## Visite:
-(https://alinealmeidadev.github.io/jmbasq/)
+(https://alinealmeidadev.github.io/j-m-basquiat/)
 
 ## 🛠 Tecnologias
 
