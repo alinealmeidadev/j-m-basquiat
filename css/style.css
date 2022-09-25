@@ -77,10 +77,47 @@ header span {
 }
 
 
-#img1 {
-  background-image: url('../img/bg-login.png');
+#img-a1 {
+  background-image: url('../img/album-01-ironia-do-policial-negro.png');
 }
 
+.modal-body .img-responsive {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#img-a2 {
+  background-image: url('../img/album-02-passaro-no-dinheiro.png');
+}
+
+#img-a3 {
+  background-image: url('../img/album-03-caveira.png');
+}
+
+#img-a4 {
+  background-image: url('../img/album-04-pescaria.png');
+}
+
+#img-a5 {
+  background-image: url('../img/album-05-deus-lei.png');
+}
+
+#img-a6 {
+  background-image: url('../img/album-06-coroas.png');
+}
+
+#img-a7 {
+  background-image: url('../img/album-07-boxeador.png');
+}
+
+#img-a8 {
+  background-image: url('../img/album-08-cabeza.png');
+}
+
+#img-a9 {
+  background-image: url('../img/album-09-despensador-de-pez.png');
+}
 
 #largura-card {
   gap: 50px;
@@ -102,8 +139,12 @@ header span {
 .small-image-container {
   height: 250px;
   margin-bottom: 10px;
+  object-fit: cover;
 }
 
+.small-image-container img {
+    width: auto;
+}
 /* ---------------------FOOTER */
 footer {
   height: 200px;
