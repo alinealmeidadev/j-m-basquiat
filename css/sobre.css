@@ -1,15 +1,12 @@
 
 main .vida {
     margin-top: 50px;
-
 }
-
 
 .inf {
     background-color: #000;
     flex-shrink: 0;
     height: 400px;
-
     color: #f3f0e0;
 }
 
@@ -25,12 +22,31 @@ main .vida {
 }
 
 .inf h2 {
-    padding: 15px;
+    padding: 13px;
 }
 
 .texto {
-    font-size: 18px;
+    font-size: 1.05em;
 }
 
+.carreira {
+    font-size: 1em;
+}
 
+@media(max-width: 430px) {
+    .carreira {
+        font-size: 0.8em;
+    }
 
+    .inf h2 {
+        padding: 10px;
+    }
+    
+}
+
+@media(max-width:768px) {
+    .carreira {
+        font-size: 1em;
+    }
+    
+}

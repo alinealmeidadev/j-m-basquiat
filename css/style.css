@@ -25,16 +25,6 @@ header img {
   font-color: #0000ff;
 }
 
-/* @media (min-width: 768px) {
-  .bd-placeholder-img-lg {
-    font-size: 3.5rem;
-  }
-}
- */
-
-
- /******* main *******/
-
  .carousel {
   margin-bottom: 4rem;
 }
@@ -59,11 +49,6 @@ header img {
   filter: brightness(75%);
 }
 
-/****** section ******/
-
-
-
-
 
 .btn {
   border-radius: 5px;
@@ -81,14 +66,12 @@ header img {
 }
 
 
-
  #largura-card {
   gap: 50px;
 }
 #obras h3 {
   text-align: center;
 }
-
 
 
 .album .col {
@@ -115,7 +98,6 @@ header img {
   background-size: cover;
   object-fit: cover;
 }
-
 
 .album h4,
 .card-text {
@@ -164,6 +146,22 @@ background-color: #0000ff;
 
 #img-a9 {
   background-image: url('../img/album-09-despensador-de-pez.png');
+}
+
+.frase {
+  text-align: right;
+  font-size: 1.2em;
+  font-weight: 600;
+}
+
+.bi.bi-arrow-up-square-fill {
+  text-decoration: none;
+  padding: 10px;
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  color: #0000ff;
+  font-size: 32px;
 }
 
 /* ---------------------FOOTER */
