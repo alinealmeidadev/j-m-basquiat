@@ -4,3 +4,7 @@
   background-position: center;
   filter: brightness(75%);
 }
+
+.modal-content {
+  background-color: #c0c0cf;
+}
