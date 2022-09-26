@@ -20,5 +20,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## Autora
 | [<img src="https://avatars.githubusercontent.com/u/90519615?v=4" width=115><br><sub> Aline Almeida</sub>](https://github.com/alinealmeidadev)
 | :---: |
-
-| :

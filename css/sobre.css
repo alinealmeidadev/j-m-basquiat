@@ -1,12 +1,17 @@
+body{
+    background-color: #fff;
+}
+  
 main .vida {
     margin-top: 50px;
 }
 
 .inf {
     background-color: #000;
+    color: #f3f0e0;
     flex-shrink: 0;
     height: 400px;
-    color: #f3f0e0;
+
 }
 
 .bg-inf {
