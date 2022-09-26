@@ -1,10 +1,5 @@
 
 @media(max-width: 991px) {
-    body{
-        background-color: #fff;
-      }
-      
-
     .carousel-item {
         height: 32rem;
     }
