@@ -7,9 +7,9 @@ header {
 }
 
 .nav-link {
-  font-weight: 600;
   color: #0000ff;
   font-size: 1.1em;
+  font-weight: 600;
 }
 
 .nav-link:hover {
@@ -17,8 +17,8 @@ header {
 }
 
 header img {
-  width: 70px;
   height: 55px;
+  width: 70px;
 }
 
 #navbarSupportedContent {
@@ -30,15 +30,15 @@ header img {
 }
 
 .carousel-caption {
-  bottom: 2rem;
-  z-index: 10;
-  background-color: #000000a4;
-  padding: 15px;
-  left: auto;
-  right: 3rem;
-  font-size: 1.1em;
+   background-color: #000000a4;
   color: #FFF;
+  font-size: 1.1em;
+  padding: 10px;
+  bottom: 2.5rem;
+  left: auto;
+  right: 2rem;
   text-shadow: 3px 2px 5px #5a5856;
+  z-index: 10;
 }
 
 .carousel-item {
@@ -56,8 +56,8 @@ header img {
 }
 
 .btn.btn-banner {
-  color: #ffa500;
   background-color: #5c0802;
+  color: #ffa500;
   text-decoration: none;
 }
 
@@ -78,11 +78,10 @@ header img {
   height: 420px;
   width: 320px;
   background-color: #5c0802;
+  box-shadow: 6px 3px 3px #413c41;
+  border-radius: 10px;
   color: #ffa500;
   justify-content: center;
-  box-shadow: 6px 3px 3px #413c41;
-
-  border-radius: 10px;
   transition: 0.7s;
 }
 
@@ -91,11 +90,11 @@ header img {
 }
 
 .small-image-container {
-  border-radius: 8px 8px 0 0;
-  margin-top: 10px;
-  height: 290px;
   background-repeat: no-repeat;
   background-size: cover;
+  border-radius: 8px 8px 0 0;
+  height: 290px;
+  margin-top: 10px;
   object-fit: cover;
 }
 
@@ -108,8 +107,8 @@ header img {
 
 .btn.btn-info:hover,
 .btn.btn-banner:hover {
-color: #FFF;
 background-color: #0000ff;
+color: #FFF;
 }
 
 #img-a1 {
@@ -148,29 +147,34 @@ background-color: #0000ff;
   background-image: url('../img/album-09-despensador-de-pez.png');
 }
 
+
+.img-responsive {
+  width: 100%;
+}
+
 .frase {
-  text-align: right;
   font-size: 1.2em;
   font-weight: 600;
+  text-align: right;
 }
 
 .bi.bi-arrow-up-square-fill {
   text-decoration: none;
-  padding: 10px;
-  position: fixed;
-  right: 10px;
   bottom: 10px;
   color: #0000ff;
   font-size: 32px;
+  padding: 10px;
+  position: fixed;
+  right: 10px;
 }
 
 /* ---------------------FOOTER */
 footer {
   height: 200px;
   width: 100%;
-  color: #ffa500;
   background-color: #000;
   border-top: 2px solid #0000ff;
+  color: #ffa500;
   text-align: center;
 }
 

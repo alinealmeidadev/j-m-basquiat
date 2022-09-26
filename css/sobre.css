@@ -1,4 +1,3 @@
-
 main .vida {
     margin-top: 50px;
 }
@@ -41,12 +40,42 @@ main .vida {
     .inf h2 {
         padding: 10px;
     }
-    
 }
 
 @media(max-width:768px) {
     .carreira {
         font-size: 1em;
     }
+
+    .vida #a1 {
+        order: 1;
+    } 
+
+    .vida #a2 {
+        order: 2;
+    } 
+
+    .vida #a3 {
+        order: 3;
+    } 
+
+    .vida #a4 {
+        order: 4;
+    } 
+
+    .vida #a5 {
+        order: 5;
+    } 
+
+    .vida #a6 {
+        order: 6;
+    } 
+
+    .vida #a7 {
+        order: 7;
+    } 
     
+    .vida #a8 {
+        order: 8;
+    } 
 }

@@ -1,12 +1,10 @@
-<h1 align="center">J.M. Basquiat</h1>
+<h1 align="center">Sobre: Jean Michel Basquiat</h1>
 
-<p align="center">Inserir descrição.<br>
-Inserir descrição.</p>
+<p align="center">Escolhi como tema do meu projeto o artista Jean Michel Basquiat para desenvolver o Checkopint 2 do módulo de Front-End I no curso Certified Tech Developer da Digital House.</p>
 
 <h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
+   ✅ Projeto finalizado ✅
 </h4>
-
 
 ## Visite:
 (https://alinealmeidadev.github.io/j-m-basquiat/)
@@ -22,3 +20,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## Autora
 | [<img src="https://avatars.githubusercontent.com/u/90519615?v=4" width=115><br><sub> Aline Almeida</sub>](https://github.com/alinealmeidadev)
 | :---: |
+
+| :

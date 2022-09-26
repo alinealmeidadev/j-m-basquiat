@@ -1,19 +1,6 @@
-.modal {
-    background-image:  url('../img/background-login.png');
-    background-size: cover;
-    background-position: center;
-}
-
-.modal-content {
-  background-color: #c0c0cf;
-}
-
-.form-control {
-  background-color: #fff;
-
-}
-
-
-.modal button4 {
-  background-color: #0000ff;
+#modal-login {
+  background-image:  url('../img/bg-login-2.jpg');
+  background-size: cover;
+  background-position: center;
+  filter: brightness(75%);
 }
