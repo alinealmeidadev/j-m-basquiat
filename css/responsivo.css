@@ -1,6 +1,9 @@
 
-@media(max-width: 992px) {
-
+@media(max-width: 991px) {
+    body{
+        background-color: #fff;
+      }
+      
 
     .carousel-item {
         height: 32rem;
@@ -15,7 +18,7 @@
     }
 }
 
-@media(max-width: 540px) {
+@media(max-width: 539px) {
     
 
     .btn {
@@ -26,7 +29,6 @@
 
     .carousel-item {
         height: 20rem;
-
     }
 
 
@@ -37,12 +39,13 @@
         left: 0;
         right: 0;
     }
+
     h2 {
         font-size: 1em;
     }
 }
 
-@media(max-width: 430px) {
+@media(max-width: 429px) {
 
 
     .carousel-item {
