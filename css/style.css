@@ -49,26 +49,23 @@ header img {
   height: 42rem;
 }
 
+
+.carousel-caption a {
+  background-color: #0DCAF0;
+  border-radius: 5px;
+  padding: 3px 8px;
+  text-decoration: none;
+  color: #000;
+  text-shadow: none;
+}
+
+.carousel-caption a:visited {
+  text-decoration: none;
+}
+
 .img-banner{
   filter: brightness(75%);
 }
-
-
-.btn {
-  border-radius: 5px;
-  padding: 6px 8px;
-}
-
-.btn.btn-banner {
-  background-color: #5c0802;
-  color: #ffa500;
-  text-decoration: none;
-}
-
-.btn.btn-banner a:visited {
-  text-decoration: none;
-}
-
 
  #largura-card {
   gap: 50px;
@@ -77,6 +74,10 @@ header img {
   text-align: center;
 }
 
+.btn {
+  border-radius: 5px;
+  padding: 6px 8px;
+}
 
 .album .col {
   height: 420px;
